@@ -33,4 +33,3 @@ Then look for the file :
 	sonar.java.binaries=src/main/java/com/visualpathit/account/
      ```
 
---------------------
